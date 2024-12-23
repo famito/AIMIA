@@ -2,6 +2,7 @@
   "login-page": [
     {
       "ImageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UNLOCK_ALL.gif",
+      "status": "online"
     }
     {
       "id": "online",
