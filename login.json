@@ -1,0 +1,23 @@
+{
+  "login-page": [
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UNLOCK_ALL.gif",
+    }
+    {
+      "id": "online",
+      "label": "Online"
+    },
+    {
+      "id": "offline",
+      "label": "Offline"
+    },
+    {
+      "id": "updating",
+      "label": "Updating"
+    },
+    {
+      "id": "custom",
+      "label": "In development"
+    }
+  ]
+}
